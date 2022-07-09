@@ -1,16 +1,47 @@
-<p>Project highlighting a HTML Promotional Email. Done with inline styling on the html elements with consideration for compatibility across all major email clients.</p>
 
-<p>The HTML Promotional Email can be seen at <a href="https://aloharene.github.io/Responsive-HTML-Promotional-Email/" rel="nofollow">Responsive-HTML-Promotional-Email</a></p>
+<div id="top"><h3 align="center">Promotional Email</h3></div>
 
-<h2><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Built With</h2>
 
-<ul>
-<li><a href="https://www.w3.org/TR/html/" rel="nofollow">HTML4</a> - Latest HTML markup language</li>
-<li><a href="https://www.w3.org/standards/techs/css#w3c_all" rel="nofollow">CSS3</a> - Latest css3 used</li>
-</ul>
 
-<h2><a id="user-content-contributors" class="anchor" aria-hidden="true" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contributors</h2>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://aloharene.github.io/Responsive-HTML-Promotional-Email/">
+    <img src="https://i.postimg.cc/Ss9QStb5/shades.jpg" alt="Logo" width="600" height="900">
+  </a>
 
-<ul>
-<li><strong>Rene Arenas Flores</strong> - <em>Initial work</em></li>
-</ul>
+  
+<br />
+<br />
+  <p align="center">
+    The Responsive HTML Promotional Email. The email embodies the essence of modern email design, and has many avenues for customer conversion. The customer viewing the email immediately sees the content. When scrolling down the page, the next two sections feature a call-to-action to increase conversions. Lower on the page are more options with links and another way for customers to subscribe to socials.
+    <br />
+    <br />
+    <br />
+    
+  </p>
+
+
+
+</div>
+
+
+
+
+### Built With
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Rene Arenas Flores - [@Aloha_Rene](https://twitter.com/twitter_handle)
+
+Project Link: [https://aloharene.github.io/Responsive_HTML_E-mail_Newsletter/)
+
+
+
+

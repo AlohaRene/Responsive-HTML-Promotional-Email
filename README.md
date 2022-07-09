@@ -40,7 +40,7 @@
 
 Rene Arenas Flores - [@Aloha_Rene](https://twitter.com/twitter_handle)
 
-Project Link: [https://aloharene.github.io/Responsive_HTML_E-mail_Newsletter/)
+Project Link: [https://aloharene.github.io/Responsive-HTML-Promotional-Email/)
 
 
 

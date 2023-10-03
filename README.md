@@ -1,5 +1,4 @@
-
-<div><h3 align="center"><a href="https://www.example.com](https://aloharene.github.io/Responsive-HTML-Promotional-Email/">Promotional Email</a>
+<div id="top"><h3 align="center"><a href="https://aloharene.github.io/Responsive-HTML-Promotional-Email/">Promotional Email</a>
 </h3></div>
 
 
